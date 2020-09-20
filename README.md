@@ -7,4 +7,4 @@ copyright@Rajeev Ranjan
 - Compatible with all Linux & Windows
 - Compatible with all Linux & Windows (Kali Linux is not compatible)
 
-date: 8 Aug 2020
+date: 5 Aug 2020
